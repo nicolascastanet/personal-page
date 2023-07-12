@@ -4,20 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at The "Institut des Systèmes Intelligents et de Robotique" (ISIR) in Sorbonne Université, Paris. I work under the supervision of Olivier Sigaud (ISIR, Sorbonne Université) and Sylvain Lamprier (LERIA, Université d'Angers, ex MLIA Sorbonne université). I work on goal-conditionned Reinforcement Learning in continuous environment. Specifically, my objective is to design intrinsically motivated agents that sets their own goals in order to explore and expand their sets of skills. I focus on approaches that need as litle prior knowledge on the environment as possible in order to scale to unsupervised settings. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Deep Reinforcement Learning:** Goal-conditionned RL, Curiculum Learning, Exploration
+- **Machine Learning:** Generative models, Variational inference, Optimisation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[April. 2023]** Our paper Stein Variational Goal Genration (SVGG) is accepted at ICML 2023 (Honolulu).
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
