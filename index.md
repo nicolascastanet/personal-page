@@ -22,4 +22,4 @@ I am a Ph.D. student in Reinforcement Learning at The "Institut des Systèmes In
 
 - **[ 2023-2024]** Python introduction in 1st year Bachelor, Sorbonne Université
 - **[ 2022-2023]** Python game development project, development of simple IA agents, 2nd year Bachelor, Sorbonne Université
-- **[ 2022-2023]** Business Intelligence and User Modeling, 1st year Master, Sorbonne Université
+- **[ 2022-2023]** [Business Intelligence and User Modeling](https://dac.lip6.fr/master/enseignement/bium/), 1st year [Master DAC](https://dac.lip6.fr/master/), Sorbonne Université
