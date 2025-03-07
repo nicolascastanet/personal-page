@@ -17,7 +17,7 @@ I focus on approaches that need as little prior knowledge on the environment as 
 
 ## News
 
-- **[July. 2023]** I defended my PhD Thesis on the 15 January 2025. [Manuscript](https://dac.lip6.fr/master/).
+- **[January. 2025]** I defended my PhD Thesis on the 15 January 2025. [Manuscript](https://theses.fr/2025SORUS005).
 - **[July. 2023]** I am going to present our paper SVGG at ICML 2023 during a poster session in Honolulu.
 - **[April. 2023]** Our paper Stein Variational Goal Genration (SVGG) is accepted at ICML 2023.
 
