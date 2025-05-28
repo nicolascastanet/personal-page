@@ -7,6 +7,23 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/fetch_prior_evo.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.17830">Imagine Beyond! Distributionally Robust Auto-Encoding for State Space Coverage in Online Reinforcement Learning </a></div>
+    <div class="author"><strong>Nicolas Castanet</strong>, Olivier Sigaud, Sylvain Lamprier</div>
+    <!-- 
+    <div class="periodical"><em>International Conference on Machine
+Learning <strong>(ICML)</strong>, 2023.</em></div> 
+    -->
+  </div>
+</div>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/svgg.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>
