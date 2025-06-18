@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2505.17830">Imagine Beyond! Distributionally Robust Auto-Encoding for State Space Coverage in Online Reinforcement Learning </a></div>
-    <div class="author"><strong>Nicolas Castanet</strong>, Olivier Sigaud, Sylvain Lamprier</div>
+    <div class="author"><strong>Nicolas Castanet</strong>, Olivier Sigaud, Sylvain Lamprier (2025).</div>
     <!-- 
     <div class="periodical"><em>International Conference on Machine
 Learning <strong>(ICML)</strong>, 2023.</em></div> 
