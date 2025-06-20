@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I recently obtained a Ph.D. in Reinforcement Learning at The "Institut des Systèmes Intelligents et de Robotique" ([ISIR](https://www.isir.upmc.fr/)) in Sorbonne Université (Paris), within the [MLIA team](https://www.isir.upmc.fr/equipes/mlia/). 
-I am supervised by Olivier Sigaud (ISIR, Sorbonne Université) and Sylvain Lamprier (LERIA, Université d'Angers, ex MLIA Sorbonne université). 
+I was supervised by [Olivier Sigaud](https://scholar.google.com/citations?user=elLfDv0AAAAJ&hl=fr&oi=ao) (ISIR, Sorbonne Université) and [Sylvain Lamprier](https://scholar.google.com/citations?user=NuGN8SUAAAAJ&hl=fr) (LERIA, Université d'Angers, ex MLIA Sorbonne université). 
 I work on goal-conditionned Deep Reinforcement Learning in continuous environment. 
 Specifically, my objective is to design intrinsically motivated agents that sets their own goals in order to explore and expand their sets of skills. 
 I focus on approaches that need as little prior knowledge on the environment as possible in order to scale to unsupervised settings. 
