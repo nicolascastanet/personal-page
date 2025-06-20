@@ -17,9 +17,10 @@ I focus on approaches that need as little prior knowledge on the environment as 
 - **Machine Learning:** Generative models, Variational inference, Optimisation
 
 ## News
+- **[May. 2025]** Check out our new preprint: [Imagine Beyond!](https://arxiv.org/abs/2505.17830) We propose a new method to overcome exploration bottlenecks in Online RL coupled with representation learning leveraging [Distributionally Robust Optimization](https://arxiv.org/abs/1908.05659).  
 - **[January. 2025]** I defended my PhD Thesis on the 15 January 2025. [Manuscript](https://theses.fr/2025SORUS005).
 - **[July. 2023]** I am going to present our paper SVGG at ICML 2023 during a poster session in Honolulu.
-- **[April. 2023]** Our paper Stein Variational Goal Genration (SVGG) is accepted at ICML 2023.
+- **[April. 2023]** Our paper [Stein Variational Goal Genration](https://arxiv.org/abs/2206.06719) (SVGG) is accepted at ICML 2023. We propose a new method to automatically generate a curriculum of goals leveraging the Bayesian Inference method [Stein Variational Gradient Descent](https://arxiv.org/abs/1608.04471).
 
 {% include_relative _includes/publications.md %}
 
